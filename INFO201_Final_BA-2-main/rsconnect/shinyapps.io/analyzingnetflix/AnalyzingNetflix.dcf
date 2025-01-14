@@ -1,0 +1,12 @@
+name: analyzingNetflix
+title: analyzingNetflix
+username: analyzingnetflix
+account: analyzingnetflix
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11424917
+bundleId: 8343232
+url: https://analyzingnetflix.shinyapps.io/analyzingNetflix/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
